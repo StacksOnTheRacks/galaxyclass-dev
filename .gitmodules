@@ -1,0 +1,11 @@
+[submodule "riffsync"]
+	path = riffsync
+	url = git@github.com:StacksOnTheRacks/riffsync.git
+[submodule ".ai/memory"]
+	path = .ai/memory
+	url = git@github.com:StacksOnTheRacks/galaxy-class-memory.git
+	branch = main
+[submodule "turnur"]
+	path = turnur
+	url = git@github.com:StacksOnTheRacks/turnur.git
+	branch = main
