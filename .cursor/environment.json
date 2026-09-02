@@ -1,0 +1,10 @@
+{
+  "name": "Galaxy Class (galaxyclass-dev)",
+  "install": "git submodule update --init --recursive && npm ci --prefix riffsync/apps/web && npm ci --prefix riffsync/infra/cdk && npm ci --prefix riffsync/services/riffsync-sfu && pip install --user cfn-lint",
+  "terminals": [
+    {
+      "name": "riffsync-web",
+      "command": "cd riffsync/apps/web && npm run dev"
+    }
+  ]
+}
