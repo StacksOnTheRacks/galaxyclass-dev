@@ -13,3 +13,7 @@
 	path = riffle-poker
 	url = git@github.com:StacksOnTheRacks/riffle-poker.git
 	branch = main
+[submodule "galaxyclass-www"]
+	path = galaxyclass-www
+	url = git@github.com:StacksOnTheRacks/galaxyclass-www.git
+	branch = main
