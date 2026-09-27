@@ -9,11 +9,7 @@
 	path = turnur
 	url = git@github.com:StacksOnTheRacks/turnur.git
 	branch = main
-[submodule "riffle-poker"]
-	path = riffle-poker
-	url = git@github.com:StacksOnTheRacks/riffle-poker.git
-	branch = main
-[submodule "galaxyclass-www"]
-	path = galaxyclass-www
-	url = git@github.com:StacksOnTheRacks/galaxyclass-www.git
+[submodule "galaxyclass"]
+	path = galaxyclass
+	url = git@github.com:StacksOnTheRacks/galaxyclass.git
 	branch = main
