@@ -13,3 +13,7 @@
 	path = galaxyclass
 	url = git@github.com:StacksOnTheRacks/galaxyclass.git
 	branch = main
+[submodule "aphelion-run"]
+	path = aphelion-run
+	url = git@github.com:StacksOnTheRacks/aphelion-run.git
+	branch = main
